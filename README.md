@@ -6,9 +6,11 @@
 
 ---
 
+
 <p align="center">
-  <img src="./ai-brain.gif" width="420" alt="AI Neural Network"/>
+  <img src="./ai-brain.gif" width="420" alt="AI Neural Network">
 </p>
+
 
 
 ## 💻 Tech Stack
