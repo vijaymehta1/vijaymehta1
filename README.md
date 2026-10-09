@@ -4,15 +4,6 @@
 🤖 Aspiring AI Engineer  
 📚 Learning Machine Learning, Deep Learning & Generative AI
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="300"
-       alt="Cozy coding animation"/>
-</p>
-
-
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
