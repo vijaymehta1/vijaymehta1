@@ -7,10 +7,13 @@
 ---
 
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="480"
-       alt="Cozy coding animation"/>
+  <img
+    src="https://media.giphy.com/media/13HgwGsGF0aiGY/giphy.gif"
+    width="380"
+    alt="Mario coding animation"
+  />
 </p>
 
 
