@@ -8,13 +8,16 @@
 
 
 
+
 <p align="center">
   <img
-    src="https://media.giphy.com/media/13HgwGsGF0aiGY/giphy.gif"
-    width="380"
-    alt="Mario coding animation"
+    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+    width="420"
+    alt="Late night coding animation"
   />
 </p>
+
+
 
 
 
