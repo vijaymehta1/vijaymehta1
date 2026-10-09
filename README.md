@@ -5,21 +5,13 @@
 📚 Learning Machine Learning, Deep Learning & Generative AI
 
 ---
-
-
-
-
 <p align="center">
   <img
-    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
-    width="300"
-    alt="Late night coding animation"
+    src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+    width="420"
+    alt="Glowing AI neural network animation"
   />
 </p>
-
-
-
-
 
 ## 💻 Tech Stack
 
