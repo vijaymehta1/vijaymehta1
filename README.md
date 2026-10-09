@@ -6,6 +6,15 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f"
+    width="450"
+    alt="Animated character coding on a laptop"
+  />
+</p>
+
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
