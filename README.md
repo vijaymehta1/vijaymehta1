@@ -6,11 +6,12 @@
 
 ---
 
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vijaymehta1/vijaymehta1/main/ai-brain.gif" width="420" alt="AI Neural Network">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       width="480"
+       alt="Cozy coding animation"/>
 </p>
+
 
 
 ## 💻 Tech Stack
