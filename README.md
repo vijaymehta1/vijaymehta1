@@ -6,13 +6,13 @@
 
 ---
 
+
 <p align="center">
-  <img
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f"
-    width="450"
-    alt="Animated character coding on a laptop"
-  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       width="480"
+       alt="Cozy coding animation"/>
 </p>
+
 
 
 ## 💻 Tech Stack
